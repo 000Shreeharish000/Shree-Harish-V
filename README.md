@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=F72711&background=381AFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hey+I'm+Shree+Harish+V+!;Not+your+Average+Developer+" alt="Typing SVG" />
 </div>
@@ -88,3 +89,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000Shreeharish000&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=000Shreeharish000&theme=radical&hide_border=false)
+=======
+# Shree-Harish-V
+>>>>>>> d1a5ba15ffa9509d5e40379bc29ebf24962233d5
