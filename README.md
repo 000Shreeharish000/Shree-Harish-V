@@ -34,14 +34,14 @@
       <td>3</td>
       <td>LPU Digital Art</td>
       <td>Digital Art</td>
-      <td>Best Digital Art</td>
+      <td>Winner Art</td>
       <td>₹5000</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Pitch Perfect</td>
       <td>AgriTech</td>
-      <td>Best Paper</td>
+      <td>Winner</td>
       <td>₹5000</td>
     </tr>
   </tbody>
