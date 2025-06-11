@@ -44,6 +44,13 @@
       <td>Winner</td>
       <td>₹5000</td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>Impulse</td>
+      <td>ML</td>
+      <td>TOP 10</td>
+      <td>Internship offer </td>
+    </tr>
   </tbody>
 </table>
 
