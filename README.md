@@ -51,6 +51,13 @@
       <td>TOP 10</td>
       <td>Internship offer </td>
     </tr>
+     <tr>
+      <td>6</td>
+      <td>SDG INNOVATE</td>
+      <td>Social Good</td>
+      <td>Second Runner Up</td>
+      <td>---</td>
+    </tr>
   </tbody>
 </table>
 
